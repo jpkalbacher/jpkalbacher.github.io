@@ -1,0 +1,66 @@
+html, body, figure, figcaption, ul, li, h1 {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font: inherit;
+  text-align: inherit;
+}
+
+h1 {
+  color: #4FFF56;
+}
+
+ul {
+  list-style: none;
+}
+
+body {
+  font-family: digital-7;
+  text-align: center;
+  font-weight: bold;
+}
+
+h1 {
+  font-size: 60px;
+  margin: 30px;
+}
+
+figure {
+  display: inline-block;
+  border: 10px solid #4FFF56;
+;
+  background-color: black;
+}
+
+ul {
+}
+
+ul:after {
+  content: "";
+  clear: both;
+  display: block;
+}
+
+li {
+  float: left;
+  width: 20px;
+  height: 20px;
+}
+
+.apple {
+  background: #4FFF56;
+  border: 1px solid black;
+  width: 18px;
+  height: 18px;
+}
+
+.snake {
+  background: #4FFF56;
+  border: 1px solid black;
+  width: 18px;
+  height: 18px;
+}
+
+html {
+  background-color: black;
+}
