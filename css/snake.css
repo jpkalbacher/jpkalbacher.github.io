@@ -21,9 +21,10 @@ body {
 }
 
 h2 {
-  font-size: 40px;
+  font-size: 24px;
   font-family: monospace;
   color: black;
+  margin-left: 225px;
 }
 
 h1 {
